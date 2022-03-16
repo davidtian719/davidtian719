@@ -5,7 +5,7 @@
 </h1>
 
 <p align='center'>
-  <b>Fullstack/Blockchain/Solidty Developer</b>
+  <b>Fullstack/Blockchain/Solidity Developer</b>
 </p>
 
 <p align='center'>
@@ -39,7 +39,7 @@
 
 ## Experience
 
-**🔹 Fullstack/Solidty Developer | Self Employed**
+**🔹 Fullstack/Solidity Developer | Self Employed**
 
 **🔹 Sr. Golang Developer | Injective Protocol**
 
