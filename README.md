@@ -34,6 +34,7 @@
 ## Education
 
 **🔹 Master’s Degree | Computer Science | ShenYang University of Technology**
+
 **🔹 Bachelor Degree | Computer Science | ShenYang University of Technology**
 
 ## Experience
