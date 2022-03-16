@@ -39,6 +39,8 @@
 
 ## Experience
 
+**🔹 Fullstack/Solidty Developer | Self Employed**
+
 **🔹 Sr. Golang Developer | Injective Protocol**
 
 **🔹 Sr. Golang/ReactJS/Blockchain Developer | GreenBay Payment Ltd**
