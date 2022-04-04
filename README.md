@@ -39,11 +39,13 @@
 
 ## Experience
 
-**🔹 Fullstack/Solidity Developer | Self Employed**
+**🔹 Blockahin Full Stack Developer | Self Employed**
 
-**🔹 Sr. Golang Developer | Injective Protocol**
+**🔹 Sr. Full Stack Developer | Childly - DoveWallet**
 
-**🔹 Sr. Golang/ReactJS/Blockchain Developer | GreenBay Payment Ltd**
+**🔹 Sr. Blockchain/Golang Developer | Injective Protocol**
+
+**🔹 Sr. Blockchain/Golang/NodeJS Developer | GreenBay Payment Ltd**
 
 **🔹 Sr. Golang/ReactJS Developer | Porcheson Ltd**
 
